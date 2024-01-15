@@ -16,6 +16,6 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.11792-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.15217)
-[![Project Page](https://img.shields.io/badge/Project_Page-vikastmz.github.io/VecFusion/-111111.svg)](https://vikastmz.github.io/NIVeL/)
+[![Project Page](https://img.shields.io/badge/Project_Page-vikastmz.github.io/NIVeL/-111111.svg)](https://vikastmz.github.io/NIVeL/)
 
 </div>
